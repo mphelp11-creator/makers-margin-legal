@@ -35,4 +35,4 @@ If we ever change this policy (for example, when adding new features in future v
 
 ## Contact
 
-If you have questions about this policy, contact maakersmargin.support@gmail.com.
+If you have questions about this policy, contact makersmargin.support@gmail.com.
