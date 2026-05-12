@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Privacy Policy
----# Privacy Policy for Maker's Margin
+---
+# Privacy Policy for Maker's Margin
 
 *Last updated: May 12, 2026*
 
